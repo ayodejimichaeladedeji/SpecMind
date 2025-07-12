@@ -1,0 +1,1 @@
+global using SpecMind.Domain.Enums;
